@@ -11,7 +11,7 @@ const Head = () => {
     navi('/cart');
   }
    const hm=()=>{
-    navi('/');
+    navi('/Bite_Food_order');
   }
   return (
     <>
