@@ -7,6 +7,7 @@ const Burger = ({headline,l1,l2,l3,lastl,pk,mm}) => {
    const navi=useNavigate()
    const click=()=>{
       navi('/cart');
+      alert("Welcome to cart page");
     }
   return (
     <>
